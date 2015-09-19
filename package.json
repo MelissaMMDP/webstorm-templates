@@ -1,0 +1,12 @@
+{
+  "name": "webstorm-live-templates",
+  "version": "0.0.1",
+  "description": "A collection of live templates for JetBrains WebStorm => 10",
+  "authors": "Melissa Austin",
+  "license": "MIT",
+  "homepage": "https://github.com/MAustinMMDP/webstorm-live-templates",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MAustinMMDP/webstorm-live-templates.git"
+  }
+}
