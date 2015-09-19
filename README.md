@@ -12,7 +12,7 @@ A collection of live templates for JetBrains WebStorm => 10
 
 ## Motivation
 
-These live templates were adapted for the [johnpapa/angular-style repo] (https://github.com/johnpapa/angular-styleguide) based on [issue #529] (https://github.com/johnpapa/angular-styleguide/issues/529). 
+These live templates were adapted for the [johnpapa/angular-style repo] (https://github.com/johnpapa/angular-styleguide) in response to [issue #529] (https://github.com/johnpapa/angular-styleguide/issues/529). 
 
 ## Installation
 
