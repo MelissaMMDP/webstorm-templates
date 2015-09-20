@@ -27,7 +27,7 @@ In the near future you can download an archive file via the [johnpapa/angular-st
     - Click `OK` to save the default values
     - Click `OK` to save the live template
     
-*Repeat these steps for each file in the angular folder using the corresponding [abbreviation] (#abbreviations)*
+*Repeat these steps for each JavaScript file in the angular folder using the corresponding [abbreviation] (#abbreviations)*
     
 ## Abbreviations
 
