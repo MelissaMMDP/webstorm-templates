@@ -12,11 +12,11 @@ A collection of live templates for JetBrains WebStorm => 10
 
 ## Motivation
 
-These live templates were adapted for the [johnpapa/angular-style repo] (https://github.com/johnpapa/angular-styleguide) in response to [issue #529] (https://github.com/johnpapa/angular-styleguide/issues/529). 
+These live templates were adapted for the [johnpapa/angular-styleguide repo] (https://github.com/johnpapa/angular-styleguide) in response to [issue #529] (https://github.com/johnpapa/angular-styleguide/issues/529). 
 
 ## Installation
 
-In the near future you can download an archive file via the [johnpapa/angular-style repo] (https://github.com/johnpapa/angular-styleguide) but for now you can clone this repo and follow these steps:
+In the near future you can download an archive file via the [johnpapa/angular-styleguide repo] (https://github.com/johnpapa/angular-styleguide) but for now you can clone this repo and follow these steps:
 
     - Open the project in WebStorm
     - Expand the angular folder and open the first file, angular.controller.js
