@@ -5,7 +5,9 @@ A collection of live templates for JetBrains WebStorm => 10
 ## Table of Contents
 
   1. [Motivation](#motivation)
-  1. [Installation](#installation)   
+  1. [Installation](#installation)
+    a. [XML] (#xml)
+    b. [Manual] (#manual)
   1. [Abbreviations](#abbreviations)
   1. [Contributing](#contributing)
   1. [License](#license)
@@ -16,18 +18,27 @@ These live templates were adapted for the [johnpapa/angular-styleguide repo] (ht
 
 ## Installation
 
-In the near future you can download an archive file via the [johnpapa/angular-styleguide repo] (https://github.com/johnpapa/angular-styleguide) but for now you can clone this repo and follow these steps:
+### XML
 
+Download the [webstorm-angular-live-templates.xml] (https://github.com/MAustinMMDP/webstorm-live-templates/blob/master/angular/webstorm-angular-live-templates.xml) file and place it in your WebStorm home directory templates folder. To quickly locate the templates folder, open WebStorm, go to `File > Import Settings...` and copy the path or get help [here] (https://www.jetbrains.com/webstorm/help/project-and-ide-settings.html).
+
+To use the new live templates skip to the [abbreviation] (#abbreviations) section below.
+
+### Manual
+
+    - Clone this repository
     - Open the project in WebStorm
     - Expand the angular folder and open the first file, angular.controller.js
     - Ctrl+A to highlight the file contents
     - Navigate to Tools > Save as Live Template...
-    - Type the abbreviation, i.e., ngcontroller, into the `Abbreviation` field and enter a description, i.e., Creates an Angular controller
-    - Select `Edit variables` and enter a value into the `Default values` field for each variable, i.e., "moduleName", "ControllerName", "dependency"
+    - Type the abbreviation, i.e., ngcontroller, and enter a description, i.e., Creates an Angular controller
+    - Select `Edit variables` and enter default value for each variable, i.e., "moduleName", "ControllerName", "dependency"
     - Click `OK` to save the default values
     - Click `OK` to save the live template
     
 *Repeat these steps for each JavaScript file in the angular folder using the corresponding [abbreviation] (#abbreviations)*
+  
+**[Back to top](#table-of-contents)**    
     
 ## Abbreviations
 
@@ -46,7 +57,7 @@ To use the new live templates simple open a new JavaScript file and type the fol
 
 ## Contributing
 
-Open an issue first to discuss potential changes/additions. If you have questions, feel free to leave them as issues in the repository. If you find a typo, create a Pull Request (PR). The idea is to keep the content up to date and use github’s native feature to help tell the story with issues and PR’s, which are all searchable via google.
+Open an issue first to discuss potential changes/additions. If you have questions, feel free to leave them as issues in the repository. If you find a typo, create a Pull Request (PR).
 
 *By contributing to this repository you are agreeing to make your content available subject to the license of this repository.*
 
@@ -54,6 +65,8 @@ Open an issue first to discuss potential changes/additions. If you have question
     1. Discuss the changes in a GitHub issue.
     2. Open a Pull Request (PR), reference the issue, and explain the change and why it adds value.
     3. The PR will be evaluated and either merged or declined.
+
+**[Back to top](#table-of-contents)**
 
 ## License
 
