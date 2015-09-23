@@ -42,7 +42,7 @@ To use the new live templates skip to the [abbreviation] (#abbreviations) sectio
     
 ## Abbreviations
 
-To use the new live templates simple open a new JavaScript file and type the following abbreviations followed by a `TAB`:
+To use the new live templates simply open a new JavaScript file and type the following abbreviations followed by a `TAB`:
 
     ```javascript
     ngcontroller // Creates an Angular controller
