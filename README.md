@@ -19,13 +19,13 @@ The angular-styleguide live templates were adapted for the [johnpapa/angular-sty
   - Packaged Templates    
     - Download the [webstorm-angular-live-templates](angular-styleguide/webstorm-angular-live-templates.xml?raw=true) .xml file
     - Place the file in your WebStorm [templates](https://www.jetbrains.com/webstorm/help/project-and-ide-settings.html) folder
-    - Open WebStorm or, if already open, Synchronize with `CTRL` + `ALT` + `Y`
+    - Open WebStorm or, if already open, Synchronize your settings with `CTRL` + `ALT` + `Y`
     - Skip to the [abbreviations] (#abbreviations) section
 
   - Individual Templates
     - Download the [template](angular-styleguide) .xml file
     - Place the file in your WebStorm [templates](https://www.jetbrains.com/webstorm/help/project-and-ide-settings.html) folder
-    - Open WebStorm or, if already open, Synchronize with `CTRL` + `ALT` + `Y`
+    - Open WebStorm or, if already open, Synchronize your settings with `CTRL` + `ALT` + `Y`
     - Skip to the [abbreviations] (#abbreviations) section     
   
 **[Back to top](#table-of-contents)**    
