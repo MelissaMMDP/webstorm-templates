@@ -19,12 +19,12 @@ The angular-styleguide live templates were adapted for the [johnpapa/angular-sty
   - Packaged Templates    
     - Download the [webstorm-angular-live-templates](angular/webstorm-angular-live-templates.xml) .xml file
     - Place the file in your WebStorm [templates](https://www.jetbrains.com/webstorm/help/project-and-ide-settings.html) folder
-    - Skip to the [abbreviation] (#abbreviations) section
+    - Skip to the [abbreviations] (#abbreviations) section
 
   - Individual Templates
     - Download the [template](angular) .xml file
     - Place the file in your WebStorm [templates](https://www.jetbrains.com/webstorm/help/project-and-ide-settings.html) folder
-    - Skip to the [abbreviation] (#abbreviations) section     
+    - Skip to the [abbreviations] (#abbreviations) section     
   
 **[Back to top](#table-of-contents)**    
     
