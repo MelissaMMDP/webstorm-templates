@@ -6,37 +6,25 @@ A collection of live templates for JetBrains WebStorm => 10
 
   1. [Motivation](#motivation)
   1. [Installation](#installation)
-    a. [XML] (#xml)
-    b. [Manual] (#manual)
   1. [Abbreviations](#abbreviations)
   1. [Contributing](#contributing)
   1. [License](#license)
 
 ## Motivation
 
-These live templates were adapted for the [johnpapa/angular-styleguide repo] (https://github.com/johnpapa/angular-styleguide) in response to [issue #529] (https://github.com/johnpapa/angular-styleguide/issues/529). 
+The angular-styleguide live templates were adapted for the [johnpapa/angular-styleguide repo] (https://github.com/johnpapa/angular-styleguide) in response to [issue #529] (https://github.com/johnpapa/angular-styleguide/issues/529). 
 
 ## Installation
 
-### XML
+  - Packaged Templates    
+    - Download the [webstorm-angular-live-templates](angular/webstorm-angular-live-templates.xml) .xml file
+    - Place the file in your WebStorm [templates](https://www.jetbrains.com/webstorm/help/project-and-ide-settings.html) folder
+    - Skip to the [abbreviation] (#abbreviations) section
 
-Download the [webstorm-angular-live-templates.xml] (https://github.com/MAustinMMDP/webstorm-live-templates/blob/master/angular/webstorm-angular-live-templates.xml) file and place it in your WebStorm home directory templates folder. To quickly locate the templates folder, open WebStorm, go to `File > Import Settings...` and copy the path or get help [here] (https://www.jetbrains.com/webstorm/help/project-and-ide-settings.html).
-
-To use the new live templates skip to the [abbreviation] (#abbreviations) section below.
-
-### Manual
-
-    - Clone this repository
-    - Open the project in WebStorm
-    - Expand the angular folder and open the first file, angular.controller.js
-    - Ctrl+A to highlight the file contents
-    - Navigate to Tools > Save as Live Template...
-    - Type the abbreviation, i.e., ngcontroller, and enter a description, i.e., Creates an Angular controller
-    - Select `Edit variables` and enter default value for each variable, i.e., "moduleName", "ControllerName", "dependency"
-    - Click `OK` to save the default values
-    - Click `OK` to save the live template
-    
-*Repeat these steps for each JavaScript file in the angular folder using the corresponding [abbreviation] (#abbreviations)*
+  - Individual Templates
+    - Download the [template](angular) .xml file
+    - Place the file in your WebStorm [templates](https://www.jetbrains.com/webstorm/help/project-and-ide-settings.html) folder
+    - Skip to the [abbreviation] (#abbreviations) section     
   
 **[Back to top](#table-of-contents)**    
     
@@ -45,12 +33,12 @@ To use the new live templates skip to the [abbreviation] (#abbreviations) sectio
 To use the new live templates simply open a new JavaScript file and type the following abbreviations followed by a `TAB`:
 
     ```javascript
-    ngcontroller // Creates an Angular controller
-    ngdirective  // Creates an Angular directive
-    ngfactory    // Creates an Angular factory
-    ngmodule     // Creates an Angular module
-    ngservice    // Creates an Angular service
-    ngfilter     // Creates an Angular filter
+    ngcontroller // creates an Angular controller
+    ngdirective  // creates an Angular directive
+    ngfactory    // creates an Angular factory
+    ngmodule     // creates an Angular module
+    ngservice    // creates an Angular service
+    ngfilter     // creates an Angular filter
     ```
 
 **[Back to top](#table-of-contents)**
