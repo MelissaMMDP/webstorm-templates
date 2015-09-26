@@ -1,12 +1,10 @@
-<templateSet group="angular-styleguide-service">
-    <template name="ngservice"
-              value="(function() {&#10;    'use strict';&#10;&#10;    angular&#10;        .module('$moduleName$')&#10;        .service('$ServiceName$', $ServiceName$);&#10;&#10;    $ServiceName$.$inject = ['$dependency$'];&#10;&#10;    /* @ngInject */&#10;    function $ServiceName$($dependency$) {&#10;        this.$functionName$ = $functionName$;&#10;&#10;        ////////////////&#10;&#10;        function $functionName$() {&#10;            $functionNameFunction$&#10;        }&#10;    }&#10;&#10;})();&#10;&#10;$END$"
-              description="Creates an Angular service" toReformat="true" toShortenFQNames="true">
-        <variable name="moduleName" expression="" defaultValue="&quot;moduleName&quot;" alwaysStopAt="true"/>
-        <variable name="ServiceName" expression="" defaultValue="&quot;ServiceName&quot;" alwaysStopAt="true"/>
+<templateSet group="angular-styleguide-config">
+    <template name="ngconfig"
+              value=".config($config$)&#10;&#10;$config$.$inject = ['$dependency$'];&#10;&#10;/* @ngInject */&#10;function $config$ ($dependency$) {&#10;    $configFunction$&#10;}$END$"
+              description="Defines a configuration phase function" toReformat="false" toShortenFQNames="true">
+        <variable name="config" expression="" defaultValue="&quot;config&quot;" alwaysStopAt="true"/>
         <variable name="dependency" expression="" defaultValue="&quot;dependency&quot;" alwaysStopAt="true"/>
-        <variable name="functionName" expression="" defaultValue="&quot;functionName&quot;" alwaysStopAt="true"/>
-        <variable name="functionNameFunction" expression="" defaultValue="" alwaysStopAt="true"/>
+        <variable name="configFunction" expression="" defaultValue="" alwaysStopAt="true"/>
         <context>
             <option name="HTML_TEXT" value="false"/>
             <option name="HTML" value="false"/>
