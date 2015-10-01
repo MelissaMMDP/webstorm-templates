@@ -16,22 +16,22 @@ The angular-styleguide templates were adapted for the [johnpapa/angular-stylegui
 
 ## Installation
 
-  - Packaged Templates    
-    - Download the [webstorm-angular-live-templates.xml](angular-styleguide/webstorm-angular-live-templates.xml?raw=true) file
-  - Individual Templates
-    - Download the [template](angular-styleguide/webstorm-angular-live-templates?raw=true) .xml file
-    
-    then
-    
+  - Live Templates    
+    - Download the [webstorm-angular-live-templates.xml](https://raw.githubusercontent.com/MAustinMMDP/webstorm-live-templates/master/angular-styleguide/webstorm-angular-live-templates/webstorm-angular-live-templates.xml) file
     - Place the file in your WebStorm [templates](https://www.jetbrains.com/webstorm/help/project-and-ide-settings.html) folder
     - Open WebStorm or, if already open, Synchronize your settings with `CTRL`+`ALT`+`Y`
-    - Skip to the [abbreviations](#abbreviations) section     
+    - Skip to the [abbreviations](#abbreviations) section
+      
+    *Individual live templates are also available for download within the [webstorm-angular-live-templates](angular-styleguide/webstorm-angular-live-templates) folder*
+    
   
   - File Templates
-    - Download the contents of the [webstorm-angular-file-templates](angular-styleguide/webstorm-angular-file-templates?raw=true) folder
+    - Download the contents of the [webstorm-angular-file-templates](angular-styleguide/webstorm-angular-file-templates) folder
     - Place it in your [fileTemplates](https://www.jetbrains.com/webstorm/help/project-and-ide-settings.html) folder
     - Restart WebStorm
     - Press `ALT`+`Insert` to open the 'New' pop-up menu and select the template
+
+  
   
 **[Back to top](#table-of-contents)**    
     
