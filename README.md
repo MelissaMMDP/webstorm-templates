@@ -1,6 +1,6 @@
-# WebStorm Live Templates
+# WebStorm Templates
 
-A collection of live templates&mdash;and a few file templates&mdash;for JetBrains WebStorm => 10
+A collection of live and file templates for JetBrains WebStorm => 10
 
 ## Table of Contents
 
@@ -30,8 +30,6 @@ The angular-styleguide templates were adapted for the [johnpapa/angular-stylegui
     - Place it in your [fileTemplates](https://www.jetbrains.com/webstorm/help/project-and-ide-settings.html) folder
     - Restart WebStorm
     - Press `ALT`+`Insert` to open the 'New' pop-up menu and select the template
-
-  
   
 **[Back to top](#table-of-contents)**    
     
