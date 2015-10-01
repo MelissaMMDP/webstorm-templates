@@ -1,6 +1,6 @@
 # WebStorm Live Templates
 
-A collection of live templates for JetBrains WebStorm => 10
+A collection of live templates&mdash;and a few file templates&mdash;for JetBrains WebStorm => 10
 
 ## Table of Contents
 
@@ -12,21 +12,26 @@ A collection of live templates for JetBrains WebStorm => 10
 
 ## Motivation
 
-The angular-styleguide live templates were adapted for the [johnpapa/angular-styleguide repo] (https://github.com/johnpapa/angular-styleguide) in response to [issue #529] (https://github.com/johnpapa/angular-styleguide/issues/529). 
+The angular-styleguide templates were adapted for the [johnpapa/angular-styleguide repo](https://github.com/johnpapa/angular-styleguide) in response to [issue #529] (https://github.com/johnpapa/angular-styleguide/issues/529). 
 
 ## Installation
 
   - Packaged Templates    
-    - Download the [webstorm-angular-live-templates](angular-styleguide/webstorm-angular-live-templates.xml?raw=true) .xml file
-    - Place the file in your WebStorm [templates](https://www.jetbrains.com/webstorm/help/project-and-ide-settings.html) folder
-    - Open WebStorm or, if already open, Synchronize your settings with `CTRL`+`ALT`+`Y`
-    - Skip to the [abbreviations] (#abbreviations) section
-
+    - Download the [webstorm-angular-live-templates.xml](angular-styleguide/webstorm-angular-live-templates.xml?raw=true) file
   - Individual Templates
-    - Download the [template](angular-styleguide) .xml file
+    - Download the [template](angular-styleguide/webstorm-angular-live-templates?raw=true) .xml file
+    
+    then
+    
     - Place the file in your WebStorm [templates](https://www.jetbrains.com/webstorm/help/project-and-ide-settings.html) folder
     - Open WebStorm or, if already open, Synchronize your settings with `CTRL`+`ALT`+`Y`
-    - Skip to the [abbreviations] (#abbreviations) section     
+    - Skip to the [abbreviations](#abbreviations) section     
+  
+  - File Templates
+    - Download the contents of the [webstorm-angular-file-templates](angular-styleguide/webstorm-angular-file-templates?raw=true) folder
+    - Place it in your [fileTemplates](https://www.jetbrains.com/webstorm/help/project-and-ide-settings.html) folder
+    - Restart WebStorm
+    - Press `ALT`+`Insert` to open the 'New' pop-up menu and select the template
   
 **[Back to top](#table-of-contents)**    
     
@@ -72,7 +77,7 @@ Attributions are appreciated.
 
 ### Copyright
 
-Copyright (c) 2015 Melissa Austin with code attribution to [https://github.com/johnpapa/angular-styleguide] (https://github.com/johnpapa/angular-styleguide)
+Copyright (c) 2015 Melissa Austin with code attribution to [https://github.com/johnpapa/angular-styleguide](https://github.com/johnpapa/angular-styleguide)
 
 ### (The MIT License)
 Permission is hereby granted, free of charge, to any person obtaining a copy
