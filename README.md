@@ -1,6 +1,6 @@
 # WebStorm Templates
 
-A collection of live and file templates for JetBrains WebStorm => 10
+A collection of live and file templates for JetBrains WebStorm >= 10
 
 ## Table of Contents
 
